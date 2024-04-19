@@ -1,3 +1,4 @@
+// remember to add access for r-universe application to repository
 [
     {
 	"package": "dynatop",

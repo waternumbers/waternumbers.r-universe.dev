@@ -1,0 +1,34 @@
+[
+    {
+	"package": "dynatop",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/waternumbers/dynatop"
+    },
+    {
+	"package": "dynatopGIS",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/waternumbers/dynatopgis"
+    },
+    {
+	"package": "fCopulae",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/r-forge/rmetrics/tree/master/pkg/fCopulae"
+	// "url": "https://github.com/cran/fCopulae"
+    },
+    {
+	"package": "FKF",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/waternumbers/fkf"
+    },
+    {
+	"package": "fNonlinear",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/r-forge/rmetrics/tree/master/pkg/fNonlinear"
+	// "url": "https://github.com/cran/fNonlinear"
+    },
+    {
+  	"package": "rrdb",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/waternumbers/rrdb"
+    }
+]

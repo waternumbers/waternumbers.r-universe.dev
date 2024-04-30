@@ -31,5 +31,11 @@
   	"package": "rrdb",
 	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
 	"url": "https://github.com/waternumbers/rrdb"
+    },
+    {
+  	"package": "anomalous",
+	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
+	"url": "https://github.com/waternumbers/anomalous",
+	"branch" : "performance"
     }
 ]

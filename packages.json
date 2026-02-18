@@ -14,7 +14,7 @@
 	"package": "fCopulae",
 	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
 	"url": "https://github.com/r-forge/rmetrics/",
-	"subdir": "tree/master/pkg/fCopulae"
+	"subdir": "pkg/fCopulae"
 	// "url": "https://github.com/cran/fCopulae"
     },
     {
@@ -26,7 +26,7 @@
 	"package": "fNonlinear",
 	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
 	"url": "https://github.com/r-forge/rmetrics",
-	"subdir": "tree/master/pkg/fNonlinear"
+	"subdir": "pkg/fNonlinear"
 	// "url": "https://github.com/cran/fNonlinear"
     },
     {

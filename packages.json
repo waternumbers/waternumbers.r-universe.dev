@@ -4,7 +4,7 @@
     {
 	"package": "dynatop",
 	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
-	"url": https://codeberg.org/dynatop/dynatop.git
+	"url": "https://codeberg.org/dynatop/dynatop.git"
     },
     {
 	"package": "dynatopGIS",

@@ -1,9 +1,10 @@
 // remember to add access for r-universe application to repository
+		// "https://github.com/waternumbers/dynatop"
 [
     {
 	"package": "dynatop",
 	"maintainer": "Paul Smith <paul@waternumbers.co.uk>",
-	"url": "https://github.com/waternumbers/dynatop"
+	"url": https://codeberg.org/dynatop/dynatop.git
     },
     {
 	"package": "dynatopGIS",
